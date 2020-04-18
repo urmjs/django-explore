@@ -1,2 +1,2 @@
 # django-explore
-Demo and Exploration of Django geographic feaature
+Demo and Exploration of Django geographic features
